@@ -58,9 +58,9 @@ To set up the database:
    - Familiarity with SQL basics.
 
 2. **Clone the repository**:
-	bash 
-    git clone https://github.com/kipngetich-lab/database-wk-8-assignment.git
-	cd database-wk-8-assignment
+	- bash 
+    - git clone https://github.com/kipngetich-lab/database-wk-8-assignment.git
+	- cd database-wk-8-assignment
 
 3. **Create the Database**:
    - Open your MySQL client (e.g., MySQL Workbench, phpMyAdmin, or terminal).
