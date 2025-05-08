@@ -40,6 +40,7 @@ CREATE TABLE Members (
 );
 
 -- Create Loans table
+-- Contain details of borrowed books by the members i.e many to many relationship between members and books via loan table
 CREATE TABLE Loans (
     LoanID INT AUTO_INCREMENT PRIMARY KEY,
     BookID INT NOT NULL,
