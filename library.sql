@@ -66,7 +66,7 @@ INSERT INTO Categories (CategoryName) VALUES
 
 -- Sample Data for Books
 INSERT INTO Books (Title, AuthorID, CategoryID, PublishedYear, ISBN, CopiesAvailable) VALUES
-('Harry Potter and the Philosopher's Stone', 1, 1, 1997, '9780747532699', 5),
+("Harry Potter and the Philosopher's Stone", 1, 1, 1997, '9780747532699', 5),
 ('A Game of Thrones', 2, 1, 1996, '9780553103540', 3),
 ('The Hobbit', 3, 1, 1937, '9780547928227', 4),
 ('The Martian', NULL, 2, 2011, '9780553418026', 2);
